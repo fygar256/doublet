@@ -30,7 +30,7 @@ string      word[3000002];
 vector<int> edge[3000002];
 vector<string> path;
 
-static	char	defaultdic[]="/home/gar/dic/ejdic-hand-utf8.txt";
+static	char	defaultdic[]="/home/user/dic/ejdic-hand-utf8.txt";
 static	FILE	*so;
 static	FILE	*fp;
 static	int		len;
