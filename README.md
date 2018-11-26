@@ -37,9 +37,15 @@ Cと、C++が混じったプログラムは、「better C」と言います。
 使い方例
 
 $ doublet hate love
+
 number of links : 2
+
 hate
+
 have
+
 hove
+
 love
+
 $
