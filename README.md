@@ -23,12 +23,21 @@ Cと、C++が混じったプログラムは、「better C」と言います。
 普通、辞書ファイルは、膨大な数の単語があるので、実行時に、少し時間が掛かりますが、お茶でも飲んで待ってて下さい。辞書のボキャブラリが大きかったら、答えを求めるまでの時間が飛躍的に長くなるので、なるべく、小さな辞書を使って下さい。英辞郎は大きいです。ejdic-hand-utf-8.txtは小さくて、程々なので、お薦めです。しかし、小さい辞書の場合、答えに辿り着けない場合があります。答えにたどり着けなかった場合は、"Target can not be reached!"と、メッセージが出て、止まります。
 
 コンパイルの仕方：c++ doublet.cpp -o doublet
+
 使い方例：console から、「doublet hate love」とします。
+
 出力例：
+
 $ doublet hate love
+
 number of links : 2
+
 hate
+
 have
+
 hove
+
 love
+
 $
