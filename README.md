@@ -35,6 +35,7 @@ Cと、C++が混じったプログラムは、「better C」と言います。
 コンパイルの仕方：c++ doublet.cpp -o doublet
 
 使い方例
+
 $ doublet hate love
 number of links : 2
 hate
