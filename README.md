@@ -24,7 +24,10 @@ Cと、C++が混じったプログラムは、「better C」と言います。
 しかし、小さい辞書の場合、答えに辿り着けない場合があります。
 答えにたどり着けなかった場合は、"Target can not be reached!"と、メッセージが出て、止まります。
 
-debパッケージはPDSの辞書と、doubletバイナリからなり、deb系linux(amd64)で、即実行できます。
+debパッケージは、doubletバイナリからなり、deb系linux(amd64)で、実行できます。
+
+僕の、GitHubリポジトリextwords中の、ewordsパッケージに依存します。
+
 
 コンパイルの仕方：c++ doublet.cpp -o doublet
 
