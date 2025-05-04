@@ -42,6 +42,11 @@ def solve_doublet(start, goal):
 if __name__=='__main__':
     start_word = sys.argv[1]
     goal_word = sys.argv[2]
+
+    if len(start_word)!=len(goal_word):
+        print("長さが合っていません。")
+        exit(1)
+
     result = solve_doublet(start_word, goal_word)
 
     if result:
