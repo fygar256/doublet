@@ -1,4 +1,4 @@
-For two young women who had "nothing to do," Lewis Carroll invented a game called "doublets" and published it in a London women's magazine in 1879.
+For two young women who had "nothing to do," Lewis Carroll invented a game called "doublet" and published it in a London women's magazine in 1879.
 
 This game involves giving two words and replacing the letters of the given words one by one to arrive at another given word. The given words are called "doublets," the intermediate words are called "links," and the chain from one doublet to the other is called "chains." For example,
 
