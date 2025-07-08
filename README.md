@@ -17,3 +17,5 @@ The dictionary file is specified by the variable "dictionary."
 If you replace the dictionary file with a Japanese hiragana file, it will become compatible with Japanese. However, because Japanese has consonants, even if the number of characters matches, the beats may not match.
 
 doublet.py is for English, doubletj.py is for Japanese.
+
+dblt.py is for replacement 1~2 letter(s) for English. dbltj.py is Japanese version of dblt.py.
